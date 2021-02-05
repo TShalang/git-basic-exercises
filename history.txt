@@ -1,0 +1,202 @@
+    1  git push
+    2  git push -u origin Template
+    3  git push origin master
+    4  git pull https://github.com/Shalang12/INF370.git
+    5  git init
+    6  git add.
+    7  git add .
+    8  git remote add origin https://github.com/Shalang12/INF370.git 
+    9  git remote -v
+   10  git push origin master
+   11  git clone 
+   12  git clone https://github.com/Shalang12/INF370.git
+   13  git init
+   14  git add .
+   15  git rm --cached Pi-Thon
+   16  git rm --cached Pi-ThoN
+   17  -f
+   18  git rm --cached Pi-ThoN -f
+   19  git init
+   20  git add .
+   21  git init
+   22  git add .
+   23  git commit -m "Initial Commit"
+   24  git remote add origin https://github.com/Shalang12/INF370-Project.git
+   25  git remote -v
+   26  git push origin master
+   27  git remote remove origin
+   28  git remote add origin https://github.com/Shalang12/INF370-Project.git
+   29  git push origin master
+   30  git remote remove
+   31  git remote add https://github.com/Shalang12/INF370-Project.git
+   32  git remote remove https://github.com/Shalang12/INF370-Project.git
+   33  git remote add https://github.com/Shalang12/INF370-Project.git
+   34  git push origin Tshidi
+   35  mkdir git-basic-exercises
+   36  mkdir git-basic-exercises
+   37  cd git-basic-exercises
+   38  ls -a
+   39  git init
+   40  ls -a
+   41  git log
+   42  git status
+   43  touch README.md
+   44  ls -a
+   45  git status
+   46  git add .
+   47  git status
+   48  git commit -m "initial commit"
+   49  git log
+   50  q
+   51  git og q
+   52  git log q
+   53  q
+   54  nano README.md
+   55  cat README.md
+   56  git stats
+   57  git status
+   58  git commit -m "second commit"
+   59  git add .
+   60  git commit -m "second commit"
+   61  git status
+   62  git log
+   63  nano README.md
+   64  cat README.md
+   65  git status
+   66  git add README.md
+   67  git commit -m "third commit"
+   68  git status
+   69  git log
+   70  q
+   71  git checkout 6247293b76581ce1b83a212cc2e754f502bf8202
+   72  cat README.md
+   73  git checkout main
+   74  git checkout master
+   75  cat README.md
+   76  git branch
+   77  git branch milkshake-flavours
+   78  git branch
+   79  git checkout milkshake-flavours
+   80  git branch
+   81  nano milkshakes.md
+   82  git status
+   83  git commit -m "added intitial flavours"
+   84  git add .
+   85  git commit -m "added initial flavours"
+   86  git log
+   87  git checkut master
+   88  git checkout master
+   89  git log
+   90  git branch history
+   91  git checkout history
+   92  git log
+   93  git branch
+   94  history > history.txt
+   95  git add .
+   96  git commit -m "added history"
+   97  git log
+   98  git checkout milkshake-flavours
+   99  git log
+  100  git log
+  101  nano README.md
+  102  git add README.md
+  103  git commit -m "random readme changes"
+  104  git checkout history
+  105  cat README.md
+  106  rm README.md
+  107  echo "booya" > README.md
+  108  cat README.md
+  109  git add .
+  110  git commit -m "rewrote readme"
+  111  git checkout master
+  112  ls
+  113  git log
+  114  git checkout milkshake-flavours
+  115  ls
+  116  git log
+  117  git log
+  118  git checkout history
+  119  ls
+  120  git log
+  121  git log
+  122  git checkout master
+  123  git merge milkshake-flavours
+  124  ls
+  125  git log
+  126  git merge history
+  127  cat README.md
+  128  nano README.md
+  129  cat README.md
+  130  vim README.md
+  131  cd git-basic-exercises
+  132  git branch
+  133  git status
+  134  git branch
+  135  git log
+  136  git status
+  137  git add README.md
+  138  git status
+  139  git commit -m "history merge conflict"
+  140  git log
+  141  ls
+  142  git checkout history
+  143  git log
+  144  git log
+  145  git branch
+  146  git log
+  147  git status
+  148  git merge master
+  149  git log
+  150  checkout master
+  151  git checkout master
+  152  git log
+  153  git remote add origin https://github.com/TShalang/git-basic-exercises.git
+  154  git branch -M master
+  155  git push -u origin master
+  156  git remote add origin git@github.com:TShalang/git-basic-exercises.git
+  157  git push -u origin master
+  158  cd Umuzi Bootcamp
+  159  git push --set upstream origin master
+  160  git remote add origin https://github.com/TShalang/git-basic-exercises.git
+  161  git branch master
+  162  git branch -m master
+  163  git push -u origin master
+  164  git config --global user.email "shalangt@gmail.com"
+  165  git config --global user.email
+  166  git push -u origin master
+  167  mkdir git-basic-exercises
+  168  cd git-basic-exercises
+  169  ls -a
+  170  git init
+  171  ls -a
+  172  git status
+  173  touch README.md
+  174  git log
+  175  git add .
+  176  git commit -m "initial commit"
+  177  git log
+  178  nano README.md
+  179  cat README.md
+  180  git add .
+  181  git commit -m "second commit"
+  182  nano README.md
+  183  git add README.md
+  184  git commit -m "third commit"
+  185  git log
+  186  git checkout cbe016972f9d76e90b664222f6d8f51037d5ce79
+  187  cat README.md
+  188  git checkout master
+  189  cat README.md
+  190  git branch milkshake-flavours
+  191  git checkout milkshake-flavours
+  192  nano milkshake-flavours
+  193  git status
+  194  git add .
+  195  git commit -m "added initial flavours"
+  196  git log
+  197  git checkout master
+  198  git branch history
+  199  git checkout history
+  200  git log
+  201  git branch
+  202  history > history.txt
